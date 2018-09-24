@@ -1,0 +1,20 @@
+Question 1: True or False: It is possible to customize the file icons in your text editor?
+True
+
+Question 2: What is the purpose of extensions in VS Code?
+Extentions purpose is to add features, themes, and more to VS Code.
+
+Question 3: What is the keyboard shortcut for multi-select?
+Option+Cmd+Up or Option+Cmd+Dwn
+
+Question 4: What is Emmet?
+Emmet syntex is shorthand syntex for languages.
+
+Question 5: What does a JavaScript linter do?
+Provide warnings and errors about the syntex your code.
+
+Question 6: What does Intellisense mean? How can it help you be more effective as a developer?
+Its a code completion helper and it includes other features like the parameters info. It hleps the developer learn more about the code they are using. It keeps track of parameters you're typing.
+
+Question 7: Did you install any extensions? If so, list what you've installed here!
+Yes, I have install CoffeeScript snippet and linter. RubySlim
